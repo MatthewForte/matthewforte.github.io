@@ -1,0 +1,76 @@
+/*-- scss:defaults --*/
+
+// Colors
+$light-blue: #D1E5F4;
+$pale-blue: #D7E5F0;
+$darker-blue: #709FC0;
+$darkest-blue: #1E3F66;
+$cream: #FDFBF7;
+$gray: #64605f;
+$light-gray: #949799;
+$dark-gray: #333333;
+$rust: #B7410E;
+
+$color-nu-purple:          #4E2A84; // Northwestern Purple :contentReference[oaicite:0]{index=0}
+$color-purple-90:          #5B3B8C; // Purple 90 :contentReference[oaicite:1]{index=1}
+$color-purple-80:          #684C96; // Purple 80 :contentReference[oaicite:2]{index=2}
+$color-purple-70:          #765DA0; // Purple 70 :contentReference[oaicite:3]{index=3}
+$color-purple-60:          #836EAA; // Purple 60 :contentReference[oaicite:4]{index=4}
+$color-purple-50:          #9380B6; // Purple 50 :contentReference[oaicite:5]{index=5}
+$color-purple-40:          #A495C3; // Purple 40 :contentReference[oaicite:6]{index=6}
+$color-purple-30:          #B6ACD1; // Purple 30 :contentReference[oaicite:7]{index=7}
+$color-purple-20:          #CCC4DF; // Purple 20 :contentReference[oaicite:8]{index=8}
+$color-purple-10:          #E4E0EE; // Purple 10 :contentReference[oaicite:9]{index=9}
+$color-purple-darkest:     #1D0235; // Purple 160 (darkest major shade) :contentReference[oaicite:10]{index=10}
+
+$color-white:              #FFFFFF; // White :contentReference[oaicite:11]{index=11}
+$color-rich-black:         #000000; // Pure rich black :contentReference[oaicite:12]{index=12}
+$color-rich-black-80:      #342F2E; // Rich Black 80% tint :contentReference[oaicite:13]{index=13}
+$color-rich-black-50:      #716C6B; // Rich Black 50% tint :contentReference[oaicite:14]{index=14}
+$color-rich-black-20:      #BBB8B8; // Rich Black 20% tint :contentReference[oaicite:15]{index=15}
+$color-rich-black-10:      #D8D6D6; // Rich Black 10% tint :contentReference[oaicite:16]{index=16}
+
+$accent-green-bright:      #58B947; // Bright green :contentReference[oaicite:18]{index=18}
+$accent-teal-light:         #7FCECD; // Light teal/cyan :contentReference[oaicite:19]{index=19}
+$accent-blue-mid:           #5091CD; // Mid blue :contentReference[oaicite:20]{index=20}
+$accent-yellow:             #EDE93B; // Yellow (bright) :contentReference[oaicite:21]{index=21}
+$accent-gold:               #FFC520; // Gold / yellow :contentReference[oaicite:22]{index=22}
+$accent-orange-warm:        #EF553F; // Warm orange :contentReference[oaicite:23]{index=23}
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+$main-font-size: 25px;
+
+// Widths 
+$main-width: 500px;
+
+// Base document colors
+$navbar-bg: $color-purple-20; // navbar
+$navbar-fg: $color-nu-purple; // navbar foreground elements
+$navbar-hl: $color-nu-purple; // highlight color when hovering over navbar links
+$body-bg: $color-white; // page background 
+$body-color: $color-rich-black; // page text 
+$footer-bg: $color-rich-black; // footer 
+$link-color: $color-rich-black; // hyperlinks 
+
+// Inline code
+$code-bg: $color-rich-black; // inline code background color
+$code-color: $color-rich-black; // inline code text color
+
+// Code blocks
+$code-block-bg: $cream; // code block background color
+
+
+
+
+/*-- scss:rules --*/
+h1, h2 {
+  letter-spacing: 3px;
+  font-weight: 1000;
+  color: $color-nu-purple;
+}
+
+h3 {
+  color: $dark-gray;
+}

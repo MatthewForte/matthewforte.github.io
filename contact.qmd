@@ -1,0 +1,10 @@
+---
+title: "Contact"
+format: html
+---
+
+# Get in Touch
+
+- 📧 **Email**: [Matthewforte2026@u.northwestern.edu](mailto:Matthewforte2026@u.northwestern.edu)  
+- 💼 **LinkedIn**: [linkedin.com/in/matthew-forte-04a6bb126](https://www.linkedin.com/in/matthew-forte-04a6bb126)  
+- 🏫 **Office**: Department of Statistics and Data Science, Northwestern University
