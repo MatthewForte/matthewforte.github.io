@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 2\n\n[1] 3"
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
     "text": "Get in Touch\n\n📧 Email: Matthewforte2026@u.northwestern.edu\n\n💼 LinkedIn: linkedin.com/in/matthew-forte-04a6bb126\n\n🏫 Office: Department of Statistics and Data Science, Northwestern University"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching Experience",
-    "section": "",
-    "text": "Northwestern University, Department of Statistics and Data Science\nSeptember 2022 – Present\n\nSTAT 302: Data Visualization"
-  },
-  {
-    "objectID": "teaching.html#teaching-assistant",
-    "href": "teaching.html#teaching-assistant",
-    "title": "Teaching Experience",
-    "section": "",
-    "text": "Northwestern University, Department of Statistics and Data Science\nSeptember 2022 – Present\n\nSTAT 302: Data Visualization"
   },
   {
     "objectID": "index.html",
@@ -46,7 +25,7 @@
     "href": "index.html#skills",
     "title": "Matthew Forte",
     "section": "Skills",
-    "text": "Skills\n\nSkill 1\nSkill 2"
+    "text": "Skills\n\nSkill 1, awesome\nSkill 2"
   },
   {
     "objectID": "index.html#education",
@@ -54,5 +33,26 @@
     "title": "Matthew Forte",
     "section": "Education",
     "text": "Education\n\n\n\n\n\nPhD in Statistics, Expected Spring 2026\n\n\nNorthwestern University\n\n\n\n\n\n\n\nMaster’s in Statistical Practice\n\n\nCarnegie Mellon University, Spring 2019\n\n\n\n\n\n\n\nBS in Mathematics, Double Major in Economics, Spring 2018\n\n\nUniversity of Dayton"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 2\n\n[1] 3"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Northwestern University, Department of Statistics and Data Science\nSeptember 2022 – Present\n\nSTAT 302: Data Visualization"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Northwestern University, Department of Statistics and Data Science\nSeptember 2022 – Present\n\nSTAT 302: Data Visualization"
   }
 ]
