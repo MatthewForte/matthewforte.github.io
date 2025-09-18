@@ -27,7 +27,7 @@ Some Stuff
 
 ## Skills
 
--   Skill 1
+-   Skill 1, awesome
 -   Skill 2
 
 ## Education
