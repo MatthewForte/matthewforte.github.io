@@ -38,7 +38,7 @@ $accent-gold:               #FFC520; // Gold / yellow :contentReference[oaicite:
 $accent-orange-warm:        #EF553F; // Warm orange :contentReference[oaicite:23]{index=23}
 
 // Fonts
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
 
 $main-font-size: 25px;
 
@@ -49,7 +49,7 @@ $main-width: 500px;
 $navbar-bg: $color-purple-20; // navbar
 $navbar-fg: $color-nu-purple; // navbar foreground elements
 $navbar-hl: $color-nu-purple; // highlight color when hovering over navbar links
-$body-bg: $color-white; // page background 
+$body-bg: $cream; // page background 
 $body-color: $color-rich-black; // page text 
 $footer-bg: $color-rich-black; // footer 
 $link-color: $color-rich-black; // hyperlinks 

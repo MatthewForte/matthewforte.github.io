@@ -23,12 +23,7 @@ editor:
 
 ## About Me
 
-Some Stuff
-
-## Skills
-
--   Skill 1, awesome 2
--   Skill 2
+I am currently a 5th year Ph.D Candidate in Statistics and Data Science at Northwestern University and a Graduate Research Assistant at the Institute for Policy Research (IPR). My research focuses on statistical methods in meta-analysis and experimental design, with an emphasis on inference implications, generalizability, and statistical decision making. This research is focused on applications in social, behavioral, and health sciences, yet displays methods that are rooted in statistical theory. In addition to research, I have a passion for teaching statistics and building statistical intuition in my students in an inclusive, opening environment. **I am currently on the academic job market!**
 
 ## Education
 
@@ -41,13 +36,13 @@ Some Stuff
 ::: description
 <p class="course">
 
-PhD in Statistics, Expected Spring 2026
+Ph.D. in Statistics and Data Science
 
 </p>
 
 <p class="institution">
 
-Northwestern University
+Northwestern University, Expected Spring 2026
 
 </p>
 :::
@@ -81,13 +76,13 @@ Carnegie Mellon University, Spring 2019
 ::: description
 <p class="course">
 
-BS in Mathematics, Double Major in Economics, Spring 2018
+B.S. in Mathematics, Double Major in Economics
 
 </p>
 
 <p class="institution">
 
-University of Dayton
+University of Dayton, Spring 2018
 
 </p>
 :::

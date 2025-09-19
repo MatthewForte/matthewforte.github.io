@@ -1,0 +1,15 @@
+---
+title: "Research"
+format: html
+---
+My research focuses on statistical methods in meta-analysis and experimental design, with an emphasis on inference implications, generalizability, and statistical decision making. This research is focused on applications in social, behavioral, and health sciences, yet displays methods that are rooted in statistical theory.
+
+Policy and decision makers are frequently making decisions based on the evidence from statistical analyses. Many times, these decisions are based on the results of randomized control trials, or on meta-analyses from multiple trials. In either case, the implications of these decisions are dependent upon the methods used to obtain such evidence. The goal of my research is to create and enhance existing methods used in evidence-synthesis in order to provide strong evidence to these decision-makers. For example, I have developed methods in meta-analysis to properly estimate person-level average treatment effects where inference generalizes to a specified population. Also, I have explore multiple problems in meta-analysis variance estimation when there are only a small number of studies included in the analysis.
+
+# Working Papers
+**Forte, M** & Tipton, E. Meta-Analysis Reconceived from a Finite Population Sampling Perspective. *Research Synthesis Methods*. Revise & Resubmit.
+
+Valentine, J, …, **Forte, M**, …, et al. A ‘Many Analysts’ Evaluation of Race as a Moderator of the Relationship Between Attributional Style and Depressive Symptoms in Youth in the United States. *American Psychologist*. Under Review.
+
+**Forte, M** & Tipton, E. A Paradox in Meta-Analysis: How Decisions Change as Studies Are Added. Working Paper.
+

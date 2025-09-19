@@ -7,6 +7,7 @@ format: html
 **Northwestern University**, Department of Statistics and Data Science  
 *September 2022 – Present*
 
-- **STAT 302**: Data Visualization
-
-
+- **STAT 302 - Data Visualization:** Visualization of various types of data using different techniques, introduction to interactive visualizations, taught using ggplot in R
+- **STAT 201 - Introduction to Programming for Data Science:** Introduction to programming for data science using essential programming methods in both R and Python
+- **STAT 328 - Causal Inference:** Introduction to modern causal inference including randomized control trials, confounding, propensity scores, matching, regression discontinuity designs, observational studies, etc.
+- **STAT 353 - Advanced Regression:** Generalized linear models, mixed models, model building and selection, nonparametric methods, focus on theoretical development as well as interpretability, communication, and application

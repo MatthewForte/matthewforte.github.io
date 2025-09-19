@@ -8,24 +8,28 @@ website:
     search: true
     title: false
     left:
-      - text: "Matthew Forte"
-        file: index.qmd
       - text: "Home"
         file: index.qmd
-#     - text: "Projects"
-#       file: projects.qmd
+      - text: "Research"
+        file: research.qmd
       - text: "Teaching"
         file: teaching.qmd
-#     - text: "CV"
-#       file: Academic_CV.pdf
+      - text: "CV"
+        file: Matthew_Forte_CV.pdf
       - text: "Contact"
         file: contact.qmd
+    right:
+      - text: IPR
+        file: https://www.ipr.northwestern.edu/
+      - text: STEPP Center
+        file: https://steppcenter.northwestern.edu/
 
 format:
   html:
     theme:
       - pulse
       - styles.scss
+    mainfont: Work+Sans
     toc: true
     smooth-scroll: true
     anchor-sections: true
