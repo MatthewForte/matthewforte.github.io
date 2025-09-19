@@ -4,55 +4,48 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Get in Touch\n\n📧 Email: Matthewforte2026@u.northwestern.edu\n\n💼 LinkedIn: linkedin.com/in/matthew-forte-04a6bb126\n\n🏫 Office: Department of Statistics and Data Science, Northwestern University"
+    "text": "Get in Touch\n\n📧 Email: Matthewforte2026@u.northwestern.edu\n\n💼 LinkedIn: linkedin.com/in/matthew-forte-04a6bb126\n\n🏫 Office: 2046 Sheridan Rd, Evanston, IL"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Matthew Forte",
     "section": "",
-    "text": "Some Stuff"
+    "text": "I am currently a 5th year Ph.D Candidate in Statistics and Data Science at Northwestern University and a Graduate Research Assistant at the Institute for Policy Research (IPR). My research focuses on statistical methods in meta-analysis and experimental design, with an emphasis on inference implications, generalizability, and statistical decision making. This research is focused on applications in social, behavioral, and health sciences, yet displays methods that are rooted in statistical theory. In addition to research, I have a passion for teaching statistics and building statistical intuition in my students in an inclusive, opening environment. I am currently on the academic job market!"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Matthew Forte",
     "section": "",
-    "text": "Some Stuff"
-  },
-  {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "Matthew Forte",
-    "section": "Skills",
-    "text": "Skills\n\nSkill 1, awesome 2\nSkill 2"
+    "text": "I am currently a 5th year Ph.D Candidate in Statistics and Data Science at Northwestern University and a Graduate Research Assistant at the Institute for Policy Research (IPR). My research focuses on statistical methods in meta-analysis and experimental design, with an emphasis on inference implications, generalizability, and statistical decision making. This research is focused on applications in social, behavioral, and health sciences, yet displays methods that are rooted in statistical theory. In addition to research, I have a passion for teaching statistics and building statistical intuition in my students in an inclusive, opening environment. I am currently on the academic job market!"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Matthew Forte",
     "section": "Education",
-    "text": "Education\n\n\n\n\n\nPhD in Statistics, Expected Spring 2026\n\n\nNorthwestern University\n\n\n\n\n\n\n\nMaster’s in Statistical Practice\n\n\nCarnegie Mellon University, Spring 2019\n\n\n\n\n\n\n\nBS in Mathematics, Double Major in Economics, Spring 2018\n\n\nUniversity of Dayton"
+    "text": "Education\n\n\n\n\n\nPh.D. in Statistics and Data Science\n\n\nNorthwestern University, Expected Spring 2026\n\n\n\n\n\n\n\nMaster’s in Statistical Practice\n\n\nCarnegie Mellon University, Spring 2019\n\n\n\n\n\n\n\nB.S. in Mathematics, Double Major in Economics\n\n\nUniversity of Dayton, Spring 2018"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "About this site\n\n1 + 2\n\n[1] 3"
+    "text": "My research focuses on statistical methods in meta-analysis and experimental design, with an emphasis on inference implications, generalizability, and statistical decision making. This research is focused on applications in social, behavioral, and health sciences, yet displays methods that are rooted in statistical theory.\nPolicy and decision makers are frequently making decisions based on the evidence from statistical analyses. Many times, these decisions are based on the results of randomized control trials, or on meta-analyses from multiple trials. In either case, the implications of these decisions are dependent upon the methods used to obtain such evidence. The goal of my research is to create and enhance existing methods used in evidence-synthesis in order to provide strong evidence to these decision-makers. For example, I have developed methods in meta-analysis to properly estimate person-level average treatment effects where inference generalizes to a specified population. Also, I have explore multiple problems in meta-analysis variance estimation when there are only a small number of studies included in the analysis.\n\nWorking Papers\nForte, M & Tipton, E. Meta-Analysis Reconceived from a Finite Population Sampling Perspective. Research Synthesis Methods. Revise & Resubmit.\nValentine, J, …, Forte, M, …, et al. A ‘Many Analysts’ Evaluation of Race as a Moderator of the Relationship Between Attributional Style and Depressive Symptoms in Youth in the United States. American Psychologist. Under Review.\nForte, M & Tipton, E. A Paradox in Meta-Analysis: How Decisions Change as Studies Are Added. Working Paper."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching Experience",
     "section": "",
-    "text": "Northwestern University, Department of Statistics and Data Science\nSeptember 2022 – Present\n\nSTAT 302: Data Visualization"
+    "text": "Northwestern University, Department of Statistics and Data Science\nSeptember 2022 – Present\n\nSTAT 302 - Data Visualization: Visualization of various types of data using different techniques, introduction to interactive visualizations, taught using ggplot in R\nSTAT 201 - Introduction to Programming for Data Science: Introduction to programming for data science using essential programming methods in both R and Python\nSTAT 328 - Causal Inference: Introduction to modern causal inference including randomized control trials, confounding, propensity scores, matching, regression discontinuity designs, observational studies, etc.\nSTAT 353 - Advanced Regression: Generalized linear models, mixed models, model building and selection, nonparametric methods, focus on theoretical development as well as interpretability, communication, and application"
   },
   {
     "objectID": "teaching.html#teaching-assistant",
     "href": "teaching.html#teaching-assistant",
     "title": "Teaching Experience",
     "section": "",
-    "text": "Northwestern University, Department of Statistics and Data Science\nSeptember 2022 – Present\n\nSTAT 302: Data Visualization"
+    "text": "Northwestern University, Department of Statistics and Data Science\nSeptember 2022 – Present\n\nSTAT 302 - Data Visualization: Visualization of various types of data using different techniques, introduction to interactive visualizations, taught using ggplot in R\nSTAT 201 - Introduction to Programming for Data Science: Introduction to programming for data science using essential programming methods in both R and Python\nSTAT 328 - Causal Inference: Introduction to modern causal inference including randomized control trials, confounding, propensity scores, matching, regression discontinuity designs, observational studies, etc.\nSTAT 353 - Advanced Regression: Generalized linear models, mixed models, model building and selection, nonparametric methods, focus on theoretical development as well as interpretability, communication, and application"
   }
 ]
