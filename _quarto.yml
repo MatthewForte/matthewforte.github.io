@@ -15,7 +15,7 @@ website:
       - text: "Teaching"
         file: teaching.qmd
       - text: "CV"
-        file: Matthew_Forte_CV.pdf
+        file: Matthew_Forte_CV_no_ref.pdf
       - text: "Contact"
         file: contact.qmd
     right:
