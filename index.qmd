@@ -23,7 +23,7 @@ editor:
 
 ## About Me
 
-I am currently a Ph.D Candidate in Statistics and Data Science at Northwestern University and a Graduate Research Assistant at the Institute for Policy Research (IPR). My research focuses on statistical methods in meta-analysis and experimental design, with an emphasis on inference implications, generalizability, and statistical decision making. This research is focused on applications in social, behavioral, and health sciences, yet displays methods that are rooted in statistical theory. In addition to research, I have a passion for teaching statistics and building statistical intuition in my students in an inclusive, opening environment. **I am currently on the academic job market!**
+I am currently a Ph.D Candidate in Statistics and Data Science at Northwestern University and a Graduate Research Assistant at the Institute for Policy Research (IPR). My research focuses on statistical methods in meta-analysis and experimental design, with an emphasis on inference implications, generalizability, and statistical decision making. This research is focused on applications in social, behavioral, and health sciences, yet displays methods that are rooted in statistical theory. In addition to research, I have a passion for teaching statistics and building statistical intuition in my students in an inclusive, open environment. **I am currently on the academic job market!**
 
 ## Education
 
